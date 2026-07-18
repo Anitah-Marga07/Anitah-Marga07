@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Anitah Margaret N
 
-<!--
-**Anitah-Marga07/Anitah-Marga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m an aspiring Junior developer learning to build beautiful websites and web apps using HTML, CSS & JavaScript.
 
-Here are some ideas to get you started:
+🛠 Tech Stack:
+- HTML, CSS, JavaScript,
+- Git, GitHub
+- Node.js, Express.js
+- Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Projects:
+-
+
+📚 I’m currently exploring:
+- UI/UX design
+- CI/CD using GitHub Actions
+
+📫 Find me on:
+[LinkedIn](www.linkedin.com/in/anitah-margaret-07m)
+
+✍️ Quote I live by:
+> “Build what matters, and build it well.”
