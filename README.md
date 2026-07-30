@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Anitah Margaret N
+# About Anitah Margaret🥰🐦‍🔥
+👋 Hi, I'm Anitah Margaret N
 
 💼 I’m an aspiring Junior developer learning to build beautiful websites and web apps using HTML, CSS & JavaScript.
 
